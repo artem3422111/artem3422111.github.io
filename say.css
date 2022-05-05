@@ -1,0 +1,40 @@
+.img {
+    width: 150px;
+    height: 100px;
+    border-radius: 0.3rem;
+    margin-bottom: -1.3rem;
+    right: 300px;
+    display:block;
+    margin:auto;    
+}
+
+.popular__title {
+    font-size: 15px;
+    margin-bottom: -0.5rem;
+    color: #ffffff;
+    text-align: center;
+}
+
+.popular__subtitle {
+    font-size: 10px;
+    margin-bottom: -0.09rem;
+    color: #ffffff;
+    text-align: center;
+}
+ 
+.class1 {
+    background-color: rgb(99, 5, 140);
+}
+
+.section__title{
+    color: #ffffff;
+    text-align: center;
+}
+
+.popylar_sections {
+    top: 500px;
+}
+
+.button {
+    text-align: center;
+}
